@@ -1,0 +1,9 @@
+metric,unit,YOLOv8n,YOLO26n
+precision,percent,60.5,59.6
+recall,percent,49.7,52.4
+mAP50,percent,54.1,56.8
+mAP50_95,percent,22.4,24.4
+validation_inference_time,ms_per_image,7.6,7.5
+training_time,hours,0.898,1.308
+fused_parameters,count,3132707,2389735
+best_checkpoint_size,MB_approx,6.2,5.2

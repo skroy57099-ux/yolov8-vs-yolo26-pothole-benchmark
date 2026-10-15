@@ -1,0 +1,5 @@
+model,confidence,video,frames_processed,total_frame_level_detections,inference_time_seconds,end_to_end_time_seconds,inference_only_fps,end_to_end_fps
+YOLOv8n,0.25,chennai_short.mp4,3000,139,46.14,97.74,65.02,30.69
+YOLO26n,0.25,chennai_short.mp4,3000,50,56.26,110.99,53.32,27.03
+YOLOv8n,0.5,chennai_short.mp4,3000,3,50.57,110.21,59.33,27.22
+YOLO26n,0.5,chennai_short.mp4,3000,0,61.76,123.65,48.58,24.26

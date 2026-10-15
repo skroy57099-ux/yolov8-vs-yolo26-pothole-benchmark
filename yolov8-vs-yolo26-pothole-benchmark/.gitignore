@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv*/
+venv/
+.env
+
+# Dataset, model weights, and generated videos (do not commit)
+data/
+Video/
+runs/
+*.pt
+*.onnx
+*.engine
+*.mp4
+*.avi
+*.mov
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
